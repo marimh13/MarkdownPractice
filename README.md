@@ -21,6 +21,7 @@ _italics_
 * the gym 
 * dancing
 * poodles
+* cats
 [![Poods](https://media-be.chewy.com/wp-content/uploads/2021/05/21102059/Poodle-FeaturedImage-1024x615.jpg "my favorite dogs are poodles")](https://github.com/marimh13)
 
 # My Favorite Foods:
