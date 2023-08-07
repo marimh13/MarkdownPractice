@@ -14,7 +14,7 @@ _italics_
 ~~strikethrough~~
 
 
-# I like:
+# Bella likes:
 * fashion
 * tv shows
 * movies
