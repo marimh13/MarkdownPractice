@@ -81,8 +81,7 @@ _italics_
 [![check me out on Linkedin!](https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png "check me out on Linkedin!")](https://www.linkedin.com/in/maria-maldonado-942774bb/)
 
 [![Listen to some chill music](https://img.youtube.com/vi/3zeHBreluF8/0.jpg)](https://youtu.be/3zeHBreluF8 "Listen to some calm rainy day music")
-Column A | Column B | Column C
+Favorite Restaurants | Favorite Libraries | Places I want to go
 ---------|----------|---------
  A1 | B1 | C1
  A2 | B2 | C2
- A3 | B3 | C3
