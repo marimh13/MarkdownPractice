@@ -25,7 +25,7 @@ _italics_
 [![Poods](https://media-be.chewy.com/wp-content/uploads/2021/05/21102059/Poodle-FeaturedImage-1024x615.jpg "my favorite dogs are poodles")](https://github.com/marimh13)
 
 # My Favorite Foods:
-1. Pasta
+1.  # Pasta
     * Cacio e pepe
     * pomodoro 
     * bolognese
@@ -37,7 +37,7 @@ _italics_
     ![pasta](https://therecipecritic.com/wp-content/uploads/2022/11/tag-pasta-1-400x533.jpg "yum!")
     [Recipes](https://www.bonappetit.com/gallery/slideshow/favorite-pasta-recipes "go to recipes")
 
-2. cereal
+2. # cereal
     * Chocolate cheerios 
     * whole foods cinnamon toast crunch
     * granola
@@ -46,12 +46,12 @@ _italics_
     * Fitness
 
     ![Cereal with soymilk](https://www.verywellhealth.com/thmb/mz1yXslWImJzSxx6cGqsLTzJrlk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/30D7A016-ABA5-48DD-BE39-3E7A223A03BF-96f2ba9e6c724dc9b2ba638b0c0f44a2.jpeg "I'm not a big fan of cow milk on my cereal")
-3. panna cotta
+3. # panna cotta
     * With fruit sauce and a mint leaf
     * with  nutella
 
     ![Panna Cotta](https://natashaskitchen.com/wp-content/uploads/2015/10/Panna-Cotta-6.jpg "I prefer my panna cotta in a cup")
-4. raw veggies 
+4. # raw veggies 
     * baby carrots
     * cucumber
     * tomatoes
@@ -60,7 +60,7 @@ _italics_
     * bell peppers
 
     ![raw veggies](https://www.dinneratthezoo.com/wp-content/uploads/2020/01/veggie-tray-5.jpg "I love veggies with dips")
-5. beans and rice with cream 
+5. # beans and rice with cream 
     * Black beans
     * white rice
     * whole grain rice
@@ -85,3 +85,33 @@ Favorite Restaurants | Favorite Libraries | Places I want to go
 ---------|----------|---------
  A1 | B1 | C1
  A2 | B2 | C2
+
+
+```
+Here is some HTML Code: 
+<h1>Hello World!</h1>
+<p> Poodles are great friends<br>
+cats are too</p>
+```
+Here's what yhr above code looks like:
+
+<h1>Hello World!</h1>
+<p> Poodles are great friends<br>
+cats are too</p>
+
+# And now, for some emojis, since we all love emoticons...
+
+
+Feeling Happy?  | Feeling Sad? | Feelings Unknown?
+:---------:|:----------:|:---------:
+ :rainbow: | :cry:| :expressionless:
+ :smiley: | :broken_heart: | :pensive:
+ :joy: | :tired_face: | :dizzy_face:
+:poodle:|  :hankey: |   :goat:
+:nail_care:|  :violin:  |:confused:
+
+# Not sure how to describe your feelings? 
+Try using a feelings wheel. The feelings wheel can help you identify exactly what you are feeling and where that feeling might stem from. In my experience, being able to identify the most accurate feeling helps me be more compassionate with  myself and treat myself with more kindness. 
+
+### Check out the feelings wheel here
+[![feelings wheel](https://miro.medium.com/v2/resize:fit:720/format:webp/1*ieAJuyRI3-iOVOBnJzkEwA.jpeg "Identify your feelings now and feel better!")](https://blog.calm.com/blog/the-feelings-wheel)
